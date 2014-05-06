@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398208096 source:c:\users\octavio\documents\github\cicloswhile1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

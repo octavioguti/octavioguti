@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398899388 source:c:\users\octavio\documents\github\octavioguti\ciclosvalidar\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

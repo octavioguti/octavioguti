@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398897365 source:c:\users\octavio\documents\github\octavioguti\cicloanidadoresp\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

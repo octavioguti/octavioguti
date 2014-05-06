@@ -1,5 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
+#include<time.h>
+
 /*
 ingresar un numero y escribir en la pantalla en el rango
 que se encuentra el numero.
@@ -17,9 +19,15 @@ using namespace std;
 int main()
 {
     int numero;
+    srand(time(0));
 
-    cout<<"Ingresar numero entero...>";
-    cin>>numero;
+    //cout<<"ingresar un numero entero...>";
+    //cin>>numero;
+
+        numero=300+rand() %(500-300);
+    cout<<"numero generado es...:"<<numero<<"\n";
+
+
     if ((numero>=1) and (numero<=100))
     {
         cout<<"el numero esta en el rango de 1-100";

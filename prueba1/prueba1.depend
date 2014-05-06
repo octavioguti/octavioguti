@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398385670 source:c:\users\octavio\documents\github\prueba1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

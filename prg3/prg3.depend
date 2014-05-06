@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1397169191 source:c:\users\octavio\documents\github\octavioguti\prg3\main.cpp
+1397170064 source:c:\users\octavio\documents\github\octavioguti\prg3\main.cpp
 	<iostream>
 	<stdlib.h>
+	<time.h>
 
