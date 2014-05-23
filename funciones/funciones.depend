@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399935123 source:c:\users\octavio\documents\github\octavioguti\funciones\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

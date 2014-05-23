@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399504002 source:c:\users\octavio\documents\github\octavioguti\procedimientos3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

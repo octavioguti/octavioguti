@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400189693 source:c:\users\octavio\documents\github\octavioguti\tarea4\main.cpp
+	<iostream>
+	<stdlib.h>
+	"time.h"
+

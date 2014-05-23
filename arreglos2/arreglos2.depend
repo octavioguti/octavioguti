@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1400799688 source:c:\users\octavio\documents\github\octavioguti\arreglos2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
