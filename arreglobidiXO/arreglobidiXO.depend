@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1402520094 source:c:\users\octavio\documents\github\octavioguti\arreglobidixo\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<stdlib.h>
+

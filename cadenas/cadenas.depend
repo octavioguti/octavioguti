@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1402352731 source:c:\users\octavio\documents\github\octavioguti\cadenas\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
