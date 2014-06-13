@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402612657 source:c:\users\octavio\documents\github\octavioguti\clasestring\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
